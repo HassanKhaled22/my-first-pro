@@ -1,0 +1,11 @@
+C:\Users\Hassan\Documents\Visual Studio 2017\Projects\color system\color system\bin\Debug\color system.exe.config
+C:\Users\Hassan\Documents\Visual Studio 2017\Projects\color system\color system\bin\Debug\color system.exe
+C:\Users\Hassan\Documents\Visual Studio 2017\Projects\color system\color system\bin\Debug\color system.pdb
+C:\Users\Hassan\Documents\Visual Studio 2017\Projects\color system\color system\obj\Debug\color system.csprojResolveAssemblyReference.cache
+C:\Users\Hassan\Documents\Visual Studio 2017\Projects\color system\color system\obj\Debug\color_system.Form1.resources
+C:\Users\Hassan\Documents\Visual Studio 2017\Projects\color system\color system\obj\Debug\color_system.Form2.resources
+C:\Users\Hassan\Documents\Visual Studio 2017\Projects\color system\color system\obj\Debug\color_system.Properties.Resources.resources
+C:\Users\Hassan\Documents\Visual Studio 2017\Projects\color system\color system\obj\Debug\color system.csproj.GenerateResource.Cache
+C:\Users\Hassan\Documents\Visual Studio 2017\Projects\color system\color system\obj\Debug\color system.csproj.CoreCompileInputs.cache
+C:\Users\Hassan\Documents\Visual Studio 2017\Projects\color system\color system\obj\Debug\color system.exe
+C:\Users\Hassan\Documents\Visual Studio 2017\Projects\color system\color system\obj\Debug\color system.pdb
